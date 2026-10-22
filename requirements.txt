@@ -1,3 +1,0 @@
-gradio
-google-genai
-python-docx
